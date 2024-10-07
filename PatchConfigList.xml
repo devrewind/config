@@ -2,10 +2,10 @@
 <document>
 	<ChannelList channel_name="RewindClassic">
 		<Local local_name="DE_Aurora">
-			<version addr="http://45.154.27.223/R2Update/"/>
-			<update addr="http://45.154.27.223/R2Update/"/>
-			<guidepage addr="http://45.154.27.223/R2Launz/"/>
-			<homepage addr="http://45.154.27.223/R2Launz/"/>
+			<version addr="http://45.154.27.250/R2Update/"/>
+			<update addr="http://45.154.27.250/R2Update/"/>
+			<guidepage addr="http://45.154.27.250/R2Launz/"/>
+			<homepage addr="http://45.154.27.250/R2Launz/"/>
 			<login addr="45.154.27.223" port="50272"/>
 		</Local>
 	</ChannelList>
